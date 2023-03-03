@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -    EDA         |  -      EDA using nyc ticket dataset       | https://github.com/Sylvester107/Exploratory-Data-analysis-on-the-nyc-parking-tickets-dataset      |
+| 2 |  Classification              |  Building a binary classifier and a multiclassifier          | https://github.com/Sylvester107/Build-a-binary-classifier-and-a-multiclassifier-using-the-mnist_dataset       |
+| 3 |      Regression      |  Build a regression model         |  https://github.com/Sylvester107/California-housing-prediction-using-linear-regression     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
